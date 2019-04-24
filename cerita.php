@@ -1,0 +1,8 @@
+    <h1 class="content teks-tengah ">Dolor Sit Amet</h1>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat suscipit ipsum vel lacinia. Suspendisse nec rutrum nulla. Curabitur sit amet lectus eget libero tincidunt tristique sit amet id ligula. Phasellus laoreet, lorem ullamcorper aliquam ornare, nisl purus feugiat neque, vitae hendrerit arcu est eget erat. Vestibulum nec consectetur magna. In enim metus, gravida ac arcu quis, sagittis finibus ante. Nam vitae tempor felis, eget feugiat tortor. Duis tincidunt diam dui, ac hendrerit magna convallis ut. Mauris ultricies magna ac tortor viverra vulputate. Ut iaculis non magna ac posuere. Morbi porta fermentum nisl, a placerat arcu convallis sed. Nunc eu erat accumsan erat maximus volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis tempus, mi et sagittis eleifend, sem erat tincidunt nibh, et lobortis urna sapien nec purus.
+    </p>
+    <p>
+      Suspendisse porttitor sapien nec magna bibendum dignissim. Donec gravida ante eget orci varius consectetur. Nullam quis urna tellus. Nunc libero felis, pretium luctus facilisis nec, pretium vel orci. Integer sagittis arcu a tortor efficitur, nec pretium justo consectetur. Mauris lectus arcu, pretium eget elit ac, euismod sodales est. Proin rutrum cursus ipsum, et porttitor urna sagittis in. Quisque ac blandit metus. Etiam sed suscipit ex. Quisque in orci lacus.
+    </p>
+    
